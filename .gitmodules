@@ -1,0 +1,12 @@
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/generate-service-files-for-thingies-sources.git
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/generate-service-files-for-thingies-output.git
+[submodule "testing"]
+	path = testing
+	url = git@github.com:JhonnyJason/generate-service-files-for-thingies-testing.git
