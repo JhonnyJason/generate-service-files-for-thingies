@@ -7,6 +7,3 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:JhonnyJason/generate-service-files-for-thingies-output.git
-[submodule "testing"]
-	path = testing
-	url = git@github.com:JhonnyJason/generate-service-files-for-thingies-testing.git
